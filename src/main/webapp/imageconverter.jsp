@@ -189,7 +189,7 @@
 				<div class="col-md-8 text-md-left text-center">
 					<p class="mb-md-0 mb-4">
 						Copyright ÃÂ© 2023 Designed and Developed by <a
-							href="https://themefisher.com/">Phu Phuoc</a>
+							href="https://themefisher.com/">Phu Phuoc, Quang Sang</a>
 					</p>
 				</div>
 				<div class="col-md-4 text-md-right text-center">
